@@ -1,6 +1,6 @@
 # Noghte
 ### **Science & Technology Journal (Dec 2020 - Sep 2021)**  
-Featuring content on science and technology with an analytical view of their relationship with culture, society, political science, and the environment
+Featuring content on science and technology with an analytical view of their relationship with history, culture, society, political science, and the environment
 
 
 Cover pages of four issues of the journal:
