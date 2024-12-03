@@ -1,7 +1,7 @@
 # Noghte
-** Our science &amp; technology journal **
+**Our science &amp; technology journal**
 <br>
-Featuring content on science and technology with an analytical view of their relationship with culture, society, political science, and the environment  
+Featuring content on science and technology with an analytical view of their relationship with culture, society, political science, and the environment
 (Dec 2020 - Sep 2021)
 
 Cover pages of four issues of the journal:
