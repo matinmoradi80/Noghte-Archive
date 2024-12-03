@@ -1,4 +1,4 @@
-# Noghte-Archive
+# Noghte
 Our science &amp; technology journal
 Featuring content on science and technology with an analytical view of their relationship with culture, society, political science,and the environment.
 
