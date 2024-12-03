@@ -1,9 +1,9 @@
 # Noghte
-### **This is bold and bigger text**  
+### **science & technology journal (Dec 2020 - Sep 2021)**  
 
 <br>
 Featuring content on science and technology with an analytical view of their relationship with culture, society, political science, and the environment
-(Dec 2020 - Sep 2021)
+
 
 Cover pages of four issues of the journal:
 
