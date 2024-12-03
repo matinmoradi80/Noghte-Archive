@@ -1,5 +1,5 @@
 # Noghte
-<span style="font-size:24px; font-weight: bold;">This is bold and bigger text</span>
+### **This is bold and bigger text**  
 
 <br>
 Featuring content on science and technology with an analytical view of their relationship with culture, society, political science, and the environment
